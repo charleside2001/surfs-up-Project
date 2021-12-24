@@ -10,9 +10,9 @@ This analysis was performed to assist W. Avy with the temperature data for the m
 
 * The lowest minimum temperature of `56 degs` was measured in December 
 
-![Measurement Summary for june](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sum_stat_june.PNG) 
+![sum_stat_june.PNG](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sum_stat_june.PNG) 
 
-![Measurement Summary for December](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sum_stat_dec.PNG) 
+![sum_stat_dec.PNG](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sum_stat_dec.PNG) 
 
 ## Summary
 * Based on the average and maximum temperature measurement for June and December, surf and ice cream shop business will be favorable between these months
@@ -25,9 +25,9 @@ This analysis was performed to assist W. Avy with the temperature data for the m
     * However, December will be the most profitable due to higher average temperature    
 
 
-![Station Summary for June](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sta_sum_stat_june.PNG) 
+![sta_sum_stat_june.PNG](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sta_sum_stat_june.PNG) 
 
-![Station Summary for December](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sta_sum_stat_dec.PNG) 
+![sta_sum_stat_dec.PNG](https://github.com/charleside2001/surfs_up/blob/main/Analysis/sta_sum_stat_dec.PNG) 
 
 
 [Analysis Web Link](https://github.com/charleside2001/surfs_up)
